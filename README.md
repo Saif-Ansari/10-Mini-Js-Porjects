@@ -1,4 +1,4 @@
-# 10-Mini-Js-Porjects
+# 10-Mini-Js-Projects
 
 1. Hamburger Button
 
